@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/semesterProject.dir/main.cpp.o  -o semesterProject.exe -Wl,--out-implib,libsemesterProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
