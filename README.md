@@ -5,3 +5,4 @@ Dumb rats: attack if within 3 squares, constant 30% chance attack with or withou
 Player: 5 hit points against rats
 Defenses: noseplugs of lavender, trash can shields
 attacks: ziplocks against the cheese, exploding kitties against the rats.
+To play: run the program on a terminal.
